@@ -27,7 +27,7 @@ To get started with the project, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/abhishekboadgurjar/Abhi-ki-News.git
+    git clone https://github.com/abhishekgurjarin/Abhi-ki-News.git
     ```
 
 2. **Open the project directory**:
@@ -49,7 +49,7 @@ To get started with the project, follow these steps:
 
 ## Live Demo
 
-You can explore the live demo of the project [here](https://abhishekboadgurjar.github.io/Abhi-ki-News/).
+You can explore the live demo of the project [here](https://abhishekgurjarin.github.io/Abhi-ki-News/).
 ## Screenshots
 
 ![Untitled design (2)](https://github.com/user-attachments/assets/846fa9f2-0b1e-48bf-86a2-3bda2e1f9af5)
@@ -66,4 +66,4 @@ You can explore the live demo of the project [here](https://abhishekboadgurjar.g
 
 ## Author
 
-[Abhishek Gurjar](https://github.com/abhishekboadgurjar)
+[Abhishek Gurjar](https://github.com/abhishekgurjarin)
